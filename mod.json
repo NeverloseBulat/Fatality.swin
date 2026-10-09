@@ -1,0 +1,15 @@
+{
+	"geode": "5.10.1",
+	"gd": "*",
+	"version": "v1.3.0",
+	"id": "user.simplecheat",
+	"name": "Fatality.win",
+	"developer": "user",
+	"description": "Меню с вкладками: Main, Rage, Visuals, Anti-Aim, Legit, QOL, World, Decor",
+	"dependencies": {
+		"geode.node-ids": {
+			"version": ">=1.23.3",
+			"importance": "suggested"
+		}
+	}
+}
